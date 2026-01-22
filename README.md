@@ -80,13 +80,3 @@ readme: |
   # Map pixel brightness to character index
   val = np.clip(pixel / 255, 0, 1)
   idx = int(val * (len(chars) - 1))
-```
-
-📝 License
-Distributed under the MIT License. See LICENSE for more information.
-👤 Author
-Lowis Roy Figo
-Github: @logoro17
-
-<div align="center"> <p>⭐️ If you found this project cool, give it a star! ⭐️</p> </div>
-
