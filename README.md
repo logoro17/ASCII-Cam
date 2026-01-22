@@ -104,10 +104,9 @@ You need Python installed. You also need a virtual camera driver if you want to 
 
 ```sh
 
-git clone https://github.com/your\_username/SuperAscii.git
+git clone https://github.com/logoro17/ASCII-Cam.git
 
 cd SuperAscii
-
 
 
 ```
