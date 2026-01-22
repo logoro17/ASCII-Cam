@@ -43,7 +43,7 @@
   1. **Clone the repo**
       ```sh
       git clone [https://github.com/logoro17/ASCII-Cam.git](https://github.com/logoro17/ASCII-Cam.git)
-      cd SuperAscii
+      cd ASCII-Cam 
       ```
 
   2. **Install dependencies**
