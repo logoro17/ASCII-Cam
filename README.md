@@ -5,7 +5,7 @@ readme: |
 
   <br />
   <div align="center">
-    <img src="example.png" alt="SuperAscii Demo Screenshot showing Matrix-style green text and the controller window" width="800">
+    <img src="your_image.png" width="100%" alt="My Image">
   </div>
   <br />
 
