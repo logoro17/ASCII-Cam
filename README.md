@@ -1,4 +1,3 @@
-readme: |
   # SuperAscii 📸
   > **Turn your reality into code.**
   > A real-time webcam-to-ASCII converter with Virtual Camera support. Stream yourself as raw text to Zoom, Discord, OBS, or Teams.
@@ -44,7 +43,7 @@ readme: |
   1. **Clone the repo**
       ```sh
       git clone [https://github.com/logoro17/ASCII-Cam.git](https://github.com/logoro17/ASCII-Cam.git)
-      cd SuperAscii
+      cd ASCII-Cam 
       ```
 
   2. **Install dependencies**
@@ -80,3 +79,10 @@ readme: |
   # Map pixel brightness to character index
   val = np.clip(pixel / 255, 0, 1)
   idx = int(val * (len(chars) - 1))
+  ```
+
+  ## 📝 License
+  * Distributed under the MIT License. See LICENSE for more information.
+  ## 👤 Author
+  * Lowis Roy Figo
+  * Github: @logoro17
