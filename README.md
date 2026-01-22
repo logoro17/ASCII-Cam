@@ -1,6 +1,6 @@
 ---
 # SuperAscii 📸
-> \*\*Turn your reality into code.\*\*
+> **Turn your reality into code.**
 > A real-time webcam-to-ASCII converter with Virtual Camera support. Stream yourself as raw text to Zoom, Discord, OBS, or Teams.
 
 <br />
