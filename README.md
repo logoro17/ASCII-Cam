@@ -5,7 +5,7 @@ readme: |
 
   <br />
   <div align="center">
-    <img src="example.png" width="100%" alt="My Image">
+    <img src="example.png" alt="SuperAscii Demo Screenshot" width="800">
   </div>
   <br />
 
