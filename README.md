@@ -5,8 +5,7 @@ readme: |
 
   <br />
   <div align="center">
-    <img src="https://via.placeholder.com/800x400.png?text=SuperAscii+Demo+Screenshot" alt="SuperAscii Screenshot" width="800">
-    <p><em>(Replace this link with a real screenshot of your app!)</em></p>
+    <img src="example.png" alt="SuperAscii Demo Screenshot showing Matrix-style green text and the controller window" width="800">
   </div>
   <br />
 
