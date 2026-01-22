@@ -83,7 +83,7 @@ readme: |
   ```
 
   ## 📝 License
-  Distributed under the MIT License. See LICENSE for more information.
+  * Distributed under the MIT License. See LICENSE for more information.
   ## 👤 Author
-  Lowis Roy Figo
-  Github: @logoro17
+  * Lowis Roy Figo
+  * Github: @logoro17
