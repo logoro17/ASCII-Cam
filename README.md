@@ -84,6 +84,6 @@ readme: |
 
   ## 📝 License
   Distributed under the MIT License. See LICENSE for more information.
-  👤 Author
+  ## 👤 Author
   Lowis Roy Figo
   Github: @logoro17
