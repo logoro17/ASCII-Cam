@@ -82,9 +82,8 @@ readme: |
   idx = int(val * (len(chars) - 1))
   ```
 
-  📝 License
-Distributed under the MIT License. See LICENSE for more information.
-
-👤 Author
-Lowis Roy Figo
-Github: @logoro17
+  ## 📝 License
+  Distributed under the MIT License. See LICENSE for more information.
+  👤 Author
+  Lowis Roy Figo
+  Github: @logoro17
