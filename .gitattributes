@@ -1,0 +1,5 @@
+# Abaikan folder UnityCapture dari statistik bahasa
+UnityCapture/* linguist-vendored
+
+# Paksa file tertentu dideteksi sebagai Python (jika salah deteksi)
+*.py linguist-language=Python
