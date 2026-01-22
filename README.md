@@ -5,7 +5,7 @@ readme: |
 
   <br />
   <div align="center">
-    <img src="your_image.png" width="100%" alt="My Image">
+    <img src="example.png" width="100%" alt="My Image">
   </div>
   <br />
 
