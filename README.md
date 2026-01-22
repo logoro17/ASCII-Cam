@@ -80,9 +80,7 @@ To get a local copy up and running, follow these simple steps.
 
 
 
-\### Prerequisites
-
-
+### Prerequisites
 
 You need Python installed. You also need a virtual camera driver if you want to use the "Toggle VCam" feature:
 
