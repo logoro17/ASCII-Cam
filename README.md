@@ -1,4 +1,4 @@
-  # SuperAscii 📸
+  # ASCII-Cam for your WebCamera 📸
   > **Turn your reality into code.**
   > A real-time webcam-to-ASCII converter with Virtual Camera support. Stream yourself as raw text to Zoom, Discord, OBS, or Teams.
 
@@ -48,7 +48,7 @@
 
   2. **Install dependencies**
       ```sh
-      pip install opencv-python numpy pyvirtualcam PyQt5
+      pip install -r requirements.txt
       ```
 
   3. **Run the App**
